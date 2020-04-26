@@ -1,2 +1,2 @@
 # c3s
-cross-category cross semantic for FGIR
+cross-category cross-semantic for FGIR
